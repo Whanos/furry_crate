@@ -1,0 +1,12 @@
+[package]
+name = "furry"
+version = "0.1.0"
+authors = ["Whanos <whanossergal@gmail.com>"]
+edition = "2018"
+repository = "https://github.com/Whanos/furry_crate"
+license-file = "LICENSE"
+readme = "VERY MUCH WORK IN PROGRESS!! pls help"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
