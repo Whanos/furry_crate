@@ -2,10 +2,13 @@
 name = "furry"
 version = "0.1.0"
 authors = ["Whanos <whanossergal@gmail.com>"]
+categories = ["api-bindings"]
+homepage = "https://github.com/Whanos/furry_crate"
 edition = "2018"
-repository = "https://github.com/Whanos/furry_crate"
+repository = "https://github.com/Whanos/furry_crate.git"
 license-file = "LICENSE"
 readme = "README"
+description = "API wrapper for e621 and e926."
 
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
