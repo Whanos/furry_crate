@@ -1,6 +1,6 @@
 [package]
 name = "furry"
-version = "0.1.0"
+version = "0.1.1"
 authors = ["Whanos <whanossergal@gmail.com>"]
 categories = ["api-bindings"]
 homepage = "https://github.com/Whanos/furry_crate"
