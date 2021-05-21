@@ -6,7 +6,7 @@ categories = ["api-bindings"]
 homepage = "https://github.com/Whanos/furry_crate"
 edition = "2018"
 repository = "https://github.com/Whanos/furry_crate.git"
-license = "GPLv3"
+license = "GPL-3.0-or-later"
 readme = "README"
 description = "API wrapper for e926."
 
